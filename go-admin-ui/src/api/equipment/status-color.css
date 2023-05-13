@@ -1,0 +1,23 @@
+.fault-row td {
+    background: rgba(255, 2, 2, 0.15);
+}
+
+.warning-row td {
+    background: rgba(255, 166, 0, 0.15);
+}
+
+.normal-row td {
+    color: rgb(0, 196, 0);
+}
+
+.notuse-row td {
+    color: rgba(128, 128, 128, 0.5);
+}
+
+.repair-row td {
+    background: rgba(255, 255, 0, 0.2);
+}
+
+.statusFontWeight td {
+    font-weight: 700;
+}
